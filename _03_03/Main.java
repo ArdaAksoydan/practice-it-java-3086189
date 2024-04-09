@@ -1,4 +1,4 @@
-package _03_03b;
+package _03_03;
 
 public class Main {
 

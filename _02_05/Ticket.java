@@ -1,4 +1,4 @@
-package _02_07b;
+package _02_05;
 
 public class Ticket {
 
@@ -17,7 +17,7 @@ public class Ticket {
     this.destination = destination;
   }
 
-  public void setPrice(double price) {
+  public void setPrice(int price) {
     this.price = price;
   }
 

@@ -1,4 +1,4 @@
-package _01_05e;
+package _01_05;
 
 public class MenuItem {
 

@@ -1,4 +1,4 @@
-package _02_07e;
+package _02_07;
 
 public class TicketMachine {
 

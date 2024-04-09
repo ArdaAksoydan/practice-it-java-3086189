@@ -36,7 +36,7 @@ public class Ticket {
     return price;
   }
 
-  public boolean getIsReturn() {
+  public boolean isReturn() {
     return isReturn;
   }
 
